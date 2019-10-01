@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MC2ModelStoreContainer" CdmEntityContainer="MC2Entities">
+    <EntitySetMapping Name="AdminTables">
+      <EntityTypeMapping TypeName="MC2Model.AdminTable">
+        <MappingFragment StoreEntitySet="AdminTable">
+          <ScalarProperty Name="IndexNumber" ColumnName="IndexNumber" />
+          <ScalarProperty Name="ItemImage" ColumnName="ItemImage" />
+          <ScalarProperty Name="ItemName" ColumnName="ItemName" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HistoryLogins">
+      <EntityTypeMapping TypeName="MC2Model.HistoryLogin">
+        <MappingFragment StoreEntitySet="HistoryLogin">
+          <ScalarProperty Name="No" ColumnName="No" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Time_LoggedIn" ColumnName="Time_LoggedIn" />
+          <ScalarProperty Name="Time_LoggedOut" ColumnName="Time_LoggedOut" />
+          <ScalarProperty Name="SessionId" ColumnName="SessionId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LoginTables">
+      <EntityTypeMapping TypeName="MC2Model.LoginTable">
+        <MappingFragment StoreEntitySet="LoginTable">
+          <ScalarProperty Name="No" ColumnName="No" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Question" ColumnName="Question" />
+          <ScalarProperty Name="Answer" ColumnName="Answer" />
+          <ScalarProperty Name="Date_Registered" ColumnName="Date_Registered" />
+          <ScalarProperty Name="Time_Registered" ColumnName="Time_Registered" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

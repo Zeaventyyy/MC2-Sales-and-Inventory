@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MC2Model" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="MC2Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="AdminTables" EntityType="MC2Model.AdminTable" />
+    <EntitySet Name="HistoryLogins" EntityType="MC2Model.HistoryLogin" />
+    <EntitySet Name="LoginTables" EntityType="MC2Model.LoginTable" />
+  </EntityContainer>
+  <EntityType Name="AdminTable">
+    <Key>
+      <PropertyRef Name="IndexNumber" />
+      <PropertyRef Name="ItemImage" />
+      <PropertyRef Name="ItemName" />
+      <PropertyRef Name="Description" />
+      <PropertyRef Name="Quantity" />
+      <PropertyRef Name="Price" />
+    </Key>
+    <Property Name="IndexNumber" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ItemImage" Type="Binary" Nullable="false" MaxLength="Max" FixedLength="false" />
+    <Property Name="ItemName" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Description" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Quantity" Type="Int32" Nullable="false" />
+    <Property Name="Price" Type="Double" Nullable="false" />
+  </EntityType>
+  <EntityType Name="HistoryLogin">
+    <Key>
+      <PropertyRef Name="No" />
+    </Key>
+    <Property Name="No" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Username" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Date" Type="DateTime" />
+    <Property Name="Time_LoggedIn" Type="Time" />
+    <Property Name="Time_LoggedOut" Type="Time" />
+    <Property Name="SessionId" Type="String" MaxLength="36" Unicode="false" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="LoginTable">
+    <Key>
+      <PropertyRef Name="No" />
+    </Key>
+    <Property Name="No" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Username" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Password" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Question" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Answer" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Date_Registered" Type="DateTime" />
+    <Property Name="Time_Registered" Type="Time" />
+  </EntityType>
+</Schema>

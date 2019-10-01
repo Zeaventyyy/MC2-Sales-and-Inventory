@@ -1,0 +1,469 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6D0243CE-3E36-4322-A9C6-492D3848D994}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MC2_Sales_and_Inventory_System</RootNamespace>
+    <AssemblyName>MC2 Sales and Inventory System</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework">
+      <HintPath>..\..\..\Documents\Visual Studio 2015\Projects\Metro Message Box\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>..\..\..\Documents\Visual Studio 2015\Projects\Metro Message Box\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>..\..\..\Documents\Visual Studio 2015\Projects\Metro Message Box\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutForm.Designer.cs">
+      <DependentUpon>AboutForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForm.Designer.cs">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminFormDark.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminFormDark.Designer.cs">
+      <DependentUpon>AdminFormDark.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminFormRazer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminFormRazer.Designer.cs">
+      <DependentUpon>AdminFormRazer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClientForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClientForm.Designer.cs">
+      <DependentUpon>ClientForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClientFormDark.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClientFormDark.Designer.cs">
+      <DependentUpon>ClientFormDark.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClientFormRazer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClientFormRazer.Designer.cs">
+      <DependentUpon>ClientFormRazer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ForgotPasswordFormDark.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForgotPasswordFormDark.Designer.cs">
+      <DependentUpon>ForgotPasswordFormDark.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ForgotPasswordFormRazer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForgotPasswordFormRazer.Designer.cs">
+      <DependentUpon>ForgotPasswordFormRazer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HistoryClientListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HistoryClientListForm.Designer.cs">
+      <DependentUpon>HistoryClientListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ForgotPasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForgotPasswordForm.Designer.cs">
+      <DependentUpon>ForgotPasswordForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HistoryClientListFormDark.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HistoryClientListFormDark.Designer.cs">
+      <DependentUpon>HistoryClientListFormDark.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HistoryClientListFormRazer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HistoryClientListFormRazer.Designer.cs">
+      <DependentUpon>HistoryClientListFormRazer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HistoryLoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HistoryLoginForm.Designer.cs">
+      <DependentUpon>HistoryLoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HistoryLoginFormDark.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HistoryLoginFormDark.Designer.cs">
+      <DependentUpon>HistoryLoginFormDark.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HistoryLoginFormRazer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HistoryLoginFormRazer.Designer.cs">
+      <DependentUpon>HistoryLoginFormRazer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HistoryPurchaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HistoryPurchaseForm.Designer.cs">
+      <DependentUpon>HistoryPurchaseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HistoryPurchaseFormDark.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HistoryPurchaseFormDark.Designer.cs">
+      <DependentUpon>HistoryPurchaseFormDark.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HistoryPurchaseFormRazer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HistoryPurchaseFormRazer.Designer.cs">
+      <DependentUpon>HistoryPurchaseFormRazer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InputCashDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InputCashDialog.Designer.cs">
+      <DependentUpon>InputCashDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InputCashDialogDark.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InputCashDialogDark.Designer.cs">
+      <DependentUpon>InputCashDialogDark.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InputCashDialogRazer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InputCashDialogRazer.Designer.cs">
+      <DependentUpon>InputCashDialogRazer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoadingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoadingForm.Designer.cs">
+      <DependentUpon>LoadingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoadingFormDark.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoadingFormDark.Designer.cs">
+      <DependentUpon>LoadingFormDark.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoadingFormRazer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoadingFormRazer.Designer.cs">
+      <DependentUpon>LoadingFormRazer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginFormDark.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginFormDark.Designer.cs">
+      <DependentUpon>LoginFormDark.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginFormRazer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginFormRazer.Designer.cs">
+      <DependentUpon>LoginFormRazer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MC2DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MC2DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterForm.Designer.cs">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegisterFormDark.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterFormDark.Designer.cs">
+      <DependentUpon>RegisterFormDark.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegisterFormRazer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterFormRazer.Designer.cs">
+      <DependentUpon>RegisterFormRazer.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AboutForm.resx">
+      <DependentUpon>AboutForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForm.resx">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminFormDark.resx">
+      <DependentUpon>AdminFormDark.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminFormRazer.resx">
+      <DependentUpon>AdminFormRazer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClientForm.resx">
+      <DependentUpon>ClientForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClientFormDark.resx">
+      <DependentUpon>ClientFormDark.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClientFormRazer.resx">
+      <DependentUpon>ClientFormRazer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForgotPasswordFormDark.resx">
+      <DependentUpon>ForgotPasswordFormDark.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForgotPasswordFormRazer.resx">
+      <DependentUpon>ForgotPasswordFormRazer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HistoryClientListForm.resx">
+      <DependentUpon>HistoryClientListForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForgotPasswordForm.resx">
+      <DependentUpon>ForgotPasswordForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HistoryClientListFormDark.resx">
+      <DependentUpon>HistoryClientListFormDark.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HistoryClientListFormRazer.resx">
+      <DependentUpon>HistoryClientListFormRazer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HistoryLoginForm.resx">
+      <DependentUpon>HistoryLoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HistoryLoginFormDark.resx">
+      <DependentUpon>HistoryLoginFormDark.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HistoryLoginFormRazer.resx">
+      <DependentUpon>HistoryLoginFormRazer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HistoryPurchaseForm.resx">
+      <DependentUpon>HistoryPurchaseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HistoryPurchaseFormDark.resx">
+      <DependentUpon>HistoryPurchaseFormDark.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HistoryPurchaseFormRazer.resx">
+      <DependentUpon>HistoryPurchaseFormRazer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InputCashDialog.resx">
+      <DependentUpon>InputCashDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InputCashDialogDark.resx">
+      <DependentUpon>InputCashDialogDark.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InputCashDialogRazer.resx">
+      <DependentUpon>InputCashDialogRazer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoadingForm.resx">
+      <DependentUpon>LoadingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoadingFormDark.resx">
+      <DependentUpon>LoadingFormDark.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoadingFormRazer.resx">
+      <DependentUpon>LoadingFormRazer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginFormDark.resx">
+      <DependentUpon>LoginFormDark.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginFormRazer.resx">
+      <DependentUpon>LoginFormRazer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RegisterForm.resx">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegisterFormDark.resx">
+      <DependentUpon>RegisterFormDark.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegisterFormRazer.resx">
+      <DependentUpon>RegisterFormRazer.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="MC2DataSet.xsc">
+      <DependentUpon>MC2DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MC2DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MC2DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MC2DataSet.xss">
+      <DependentUpon>MC2DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gray Boxes Sharp Design.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MC2 Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Title Design.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gray Boxes Design.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wood Gray Design.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gray Design.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Material Design Light Gray.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Material Design Dark Gray II.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Black.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0f3effc311cc1e99-256x256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey-powerpoint-backgrounds.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Paper-Shopping-Bag-FD-1003-.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red-shopping-bags-isolated-white-53923183.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\15223_2d_black-white.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Red.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Load.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\razer-x-logo-circuit-hd-1920x1080.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopping_cart_black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\black_and_grey_pattern_by_kkll70.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2016-10-12 %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2016-10-12 %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2016-10-12 %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\44fea28b3994a1776ef729b43c8611f7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\217850-razer-wallpaper-1920x1080.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ListView.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Razer Logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\razer-hd-wallpaper_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\217850-razer-wallpaper-1920x10801.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

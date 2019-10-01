@@ -1,0 +1,169 @@
+C:\Users\HITLER-PC\AppData\Local\Temporary Projects\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.LoadingForm.resources
+C:\Users\HITLER-PC\AppData\Local\Temporary Projects\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.Properties.Resources.resources
+C:\Users\HITLER-PC\AppData\Local\Temporary Projects\MC2 Sales and Inventory System\obj\x86\Debug\MC2 Sales and Inventory System.csproj.GenerateResource.Cache
+C:\Users\HITLER-PC\AppData\Local\Temporary Projects\MC2 Sales and Inventory System\bin\Debug\MC2 Sales and Inventory System.exe
+C:\Users\HITLER-PC\AppData\Local\Temporary Projects\MC2 Sales and Inventory System\bin\Debug\MC2 Sales and Inventory System.pdb
+C:\Users\HITLER-PC\AppData\Local\Temporary Projects\MC2 Sales and Inventory System\obj\x86\Debug\MC2 Sales and Inventory System.exe
+C:\Users\HITLER-PC\AppData\Local\Temporary Projects\MC2 Sales and Inventory System\obj\x86\Debug\MC2 Sales and Inventory System.pdb
+C:\Users\HITLER-PC\AppData\Local\Temporary Projects\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.LoginForm.resources
+C:\Users\HITLER-PC\AppData\Local\Temporary Projects\MC2 Sales and Inventory System\bin\Debug\MC2 Sales and Inventory System.exe.config
+C:\Users\HITLER-PC\AppData\Local\Temporary Projects\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.ForgotPasswordForm.resources
+C:\Users\HITLER-PC\AppData\Local\Temporary Projects\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.RegisterForm.resources
+C:\Users\HITLER-PC\AppData\Local\Temporary Projects\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.AdminForm.resources
+C:\Users\HITLER-PC\AppData\Local\Temporary Projects\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.ClientForm.resources
+C:\Users\HITLER-PC\AppData\Local\Temporary Projects\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.InputCashDialog.resources
+C:\Users\HITLER-PC\AppData\Local\Temporary Projects\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.AboutForm.resources
+C:\Users\HITLER-PC\Downloads\MC2 Sales and Inventory System\MC2 Sales and Inventory System\bin\Debug\MC2 Sales and Inventory System.exe.config
+C:\Users\HITLER-PC\Downloads\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2 Sales and Inventory System.exe
+C:\Users\HITLER-PC\Downloads\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2 Sales and Inventory System.pdb
+C:\Users\HITLER-PC\Downloads\MC2 Sales and Inventory System\MC2 Sales and Inventory System\bin\Debug\MC2 Sales and Inventory System.exe
+C:\Users\HITLER-PC\Downloads\MC2 Sales and Inventory System\MC2 Sales and Inventory System\bin\Debug\MC2 Sales and Inventory System.pdb
+C:\Users\HITLER-PC\Downloads\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.AboutForm.resources
+C:\Users\HITLER-PC\Downloads\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.AdminForm.resources
+C:\Users\HITLER-PC\Downloads\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.ClientForm.resources
+C:\Users\HITLER-PC\Downloads\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.ForgotPasswordForm.resources
+C:\Users\HITLER-PC\Downloads\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.InputCashDialog.resources
+C:\Users\HITLER-PC\Downloads\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.LoadingForm.resources
+C:\Users\HITLER-PC\Downloads\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.LoginForm.resources
+C:\Users\HITLER-PC\Downloads\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.Properties.Resources.resources
+C:\Users\HITLER-PC\Downloads\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.RegisterForm.resources
+C:\Users\HITLER-PC\Downloads\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2 Sales and Inventory System.csproj.GenerateResource.Cache
+C:\Users\HITLER-PC\Desktop\MC2 Sales and Inventory System\MC2 Sales and Inventory System\bin\Debug\MC2 Sales and Inventory System.exe.config
+C:\Users\HITLER-PC\Desktop\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2 Sales and Inventory System.exe
+C:\Users\HITLER-PC\Desktop\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2 Sales and Inventory System.pdb
+C:\Users\HITLER-PC\Desktop\MC2 Sales and Inventory System\MC2 Sales and Inventory System\bin\Debug\MC2 Sales and Inventory System.exe
+C:\Users\HITLER-PC\Desktop\MC2 Sales and Inventory System\MC2 Sales and Inventory System\bin\Debug\MC2 Sales and Inventory System.pdb
+C:\Users\HITLER-PC\Desktop\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.AboutForm.resources
+C:\Users\HITLER-PC\Desktop\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.AdminForm.resources
+C:\Users\HITLER-PC\Desktop\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.ClientForm.resources
+C:\Users\HITLER-PC\Desktop\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.ForgotPasswordForm.resources
+C:\Users\HITLER-PC\Desktop\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.InputCashDialog.resources
+C:\Users\HITLER-PC\Desktop\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.LoadingForm.resources
+C:\Users\HITLER-PC\Desktop\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.LoginForm.resources
+C:\Users\HITLER-PC\Desktop\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.Properties.Resources.resources
+C:\Users\HITLER-PC\Desktop\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.RegisterForm.resources
+C:\Users\HITLER-PC\Desktop\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2 Sales and Inventory System.csproj.GenerateResource.Cache
+C:\Users\HITLER-PC\Desktop\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2 Sales and Inventory System.csprojResolveAssemblyReference.cache
+C:\Users\HITLER-PC\Desktop\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.HistoryLoginForm.resources
+C:\Users\HITLER-PC\Desktop\MC2 Sales and Inventory System\MC2 Sales and Inventory System\bin\Debug\MetroFramework.Design.dll
+C:\Users\HITLER-PC\Desktop\MC2 Sales and Inventory System\MC2 Sales and Inventory System\bin\Debug\MetroFramework.dll
+C:\Users\HITLER-PC\Desktop\MC2 Sales and Inventory System\MC2 Sales and Inventory System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\HITLER-PC\Desktop\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.HistoryClientListForm.resources
+C:\Users\HITLER-PC\Desktop\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.HistoryPurchaseForm.resources
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\bin\Debug\MC2 Sales and Inventory System.exe.config
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2 Sales and Inventory System.exe
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2 Sales and Inventory System.pdb
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2 Sales and Inventory System.csprojResolveAssemblyReference.cache
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.AboutForm.resources
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.AdminForm.resources
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.ClientForm.resources
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.HistoryClientListForm.resources
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.ForgotPasswordForm.resources
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.HistoryLoginForm.resources
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.HistoryPurchaseForm.resources
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.InputCashDialog.resources
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.LoadingForm.resources
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.LoginForm.resources
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.Properties.Resources.resources
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.RegisterForm.resources
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2 Sales and Inventory System.csproj.GenerateResource.Cache
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\bin\Debug\MC2 Sales and Inventory System.exe
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\bin\Debug\MC2 Sales and Inventory System.pdb
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.LoginFormDark.resources
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.LoadingFormDark.resources
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.LoadingFormRazer.resources
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.LoginFormRazer.resources
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.ClientFormDark.resources
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.AdminFormDark.resources
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.ForgotPasswordFormDark.resources
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.HistoryClientListFormDark.resources
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.HistoryLoginFormDark.resources
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.HistoryPurchaseFormDark.resources
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.InputCashDialogDark.resources
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.RegisterFormDark.resources
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.ClientFormRazer.resources
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.InputCashDialogRazer.resources
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.AdminFormRazer.resources
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.ForgotPasswordFormRazer.resources
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.RegisterFormRazer.resources
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.HistoryClientListFormRazer.resources
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.HistoryLoginFormRazer.resources
+C:\Users\owner\Desktop\MC2-Sales-and-Inventory-System\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.HistoryPurchaseFormRazer.resources
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\bin\Debug\MC2 Sales and Inventory System.exe.config
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2 Sales and Inventory System.exe
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2 Sales and Inventory System.pdb
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\bin\Debug\MC2 Sales and Inventory System.exe
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\bin\Debug\MC2 Sales and Inventory System.pdb
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2 Sales and Inventory System.csprojResolveAssemblyReference.cache
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.AboutForm.resources
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.AdminForm.resources
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.AdminFormDark.resources
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.AdminFormRazer.resources
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.ClientForm.resources
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.ClientFormDark.resources
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.ClientFormRazer.resources
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.ForgotPasswordFormDark.resources
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.ForgotPasswordFormRazer.resources
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.HistoryClientListForm.resources
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.ForgotPasswordForm.resources
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.HistoryClientListFormDark.resources
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.HistoryClientListFormRazer.resources
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.HistoryLoginForm.resources
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.HistoryLoginFormDark.resources
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.HistoryLoginFormRazer.resources
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.HistoryPurchaseForm.resources
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.HistoryPurchaseFormDark.resources
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.HistoryPurchaseFormRazer.resources
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.InputCashDialog.resources
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.InputCashDialogDark.resources
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.InputCashDialogRazer.resources
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.LoadingForm.resources
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.LoadingFormDark.resources
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.LoadingFormRazer.resources
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.LoginForm.resources
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.LoginFormDark.resources
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.LoginFormRazer.resources
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.Properties.Resources.resources
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.RegisterForm.resources
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.RegisterFormDark.resources
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.RegisterFormRazer.resources
+C:\Users\Zeus\Desktop\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2 Sales and Inventory System.csproj.GenerateResource.Cache
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\bin\Debug\MC2 Sales and Inventory System.exe.config
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2 Sales and Inventory System.exe
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2 Sales and Inventory System.pdb
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\bin\Debug\MC2 Sales and Inventory System.exe
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\bin\Debug\MC2 Sales and Inventory System.pdb
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2 Sales and Inventory System.csprojResolveAssemblyReference.cache
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.AboutForm.resources
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.AdminForm.resources
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.AdminFormDark.resources
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.AdminFormRazer.resources
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.ClientForm.resources
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.ClientFormDark.resources
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.ClientFormRazer.resources
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.ForgotPasswordFormDark.resources
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.ForgotPasswordFormRazer.resources
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.HistoryClientListForm.resources
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.ForgotPasswordForm.resources
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.HistoryClientListFormDark.resources
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.HistoryClientListFormRazer.resources
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.HistoryLoginForm.resources
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.HistoryLoginFormDark.resources
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.HistoryLoginFormRazer.resources
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.HistoryPurchaseForm.resources
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.HistoryPurchaseFormDark.resources
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.HistoryPurchaseFormRazer.resources
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.InputCashDialog.resources
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.InputCashDialogDark.resources
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.InputCashDialogRazer.resources
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.LoadingForm.resources
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.LoadingFormDark.resources
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.LoadingFormRazer.resources
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.LoginForm.resources
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.LoginFormDark.resources
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.LoginFormRazer.resources
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.Properties.Resources.resources
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.RegisterForm.resources
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.RegisterFormDark.resources
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2_Sales_and_Inventory_System.RegisterFormRazer.resources
+C:\Users\zeave\Desktop\MC2 Designs (6)\MC2 Designs\MC2 Sales and Inventory System\MC2 Sales and Inventory System\obj\x86\Debug\MC2 Sales and Inventory System.csproj.GenerateResource.Cache

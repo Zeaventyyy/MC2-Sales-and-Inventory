@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="MC2Model.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+        <EntityContainer Name="MC2ModelStoreContainer">
+          <EntitySet Name="AdminTable" EntityType="MC2Model.Store.AdminTable" store:Type="Tables" store:Schema="dbo" store:Name="AdminTable">
+            <DefiningQuery>SELECT 
+      [AdminTable].[IndexNumber] AS [IndexNumber], 
+      [AdminTable].[ItemImage] AS [ItemImage], 
+      [AdminTable].[ItemName] AS [ItemName], 
+      [AdminTable].[Description] AS [Description], 
+      [AdminTable].[Quantity] AS [Quantity], 
+      [AdminTable].[Price] AS [Price]
+      FROM [dbo].[AdminTable] AS [AdminTable]</DefiningQuery>
+          </EntitySet>
+          <EntitySet Name="HistoryLogin" EntityType="MC2Model.Store.HistoryLogin" store:Type="Tables" store:Schema="dbo" store:Name="HistoryLogin">
+            <DefiningQuery>SELECT 
+      [HistoryLogin].[No] AS [No], 
+      [HistoryLogin].[Username] AS [Username], 
+      [HistoryLogin].[Date] AS [Date], 
+      [HistoryLogin].[Time_LoggedIn] AS [Time_LoggedIn], 
+      [HistoryLogin].[Time_LoggedOut] AS [Time_LoggedOut], 
+      [HistoryLogin].[SessionId] AS [SessionId]
+      FROM [dbo].[HistoryLogin] AS [HistoryLogin]</DefiningQuery>
+          </EntitySet>
+          <EntitySet Name="LoginTable" EntityType="MC2Model.Store.LoginTable" store:Type="Tables" store:Schema="dbo" store:Name="LoginTable">
+            <DefiningQuery>SELECT 
+      [LoginTable].[No] AS [No], 
+      [LoginTable].[Username] AS [Username], 
+      [LoginTable].[Password] AS [Password], 
+      [LoginTable].[Question] AS [Question], 
+      [LoginTable].[Answer] AS [Answer], 
+      [LoginTable].[Date_Registered] AS [Date_Registered], 
+      [LoginTable].[Time_Registered] AS [Time_Registered]
+      FROM [dbo].[LoginTable] AS [LoginTable]</DefiningQuery>
+          </EntitySet>
+        </EntityContainer>
+        <!--Errors Found During Generation:
+      warning 6002: The table/view 'C:\USERS\ZEAVE\DESKTOP\MC2 DESIGNS (6)\MC2 DESIGNS\MC2 SALES AND INVENTORY SYSTEM\MC2 SALES AND INVENTORY SYSTEM\MC2.MDF.dbo.AdminTable' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+        <EntityType Name="AdminTable">
+          <Key>
+            <PropertyRef Name="IndexNumber" />
+            <PropertyRef Name="ItemImage" />
+            <PropertyRef Name="ItemName" />
+            <PropertyRef Name="Description" />
+            <PropertyRef Name="Quantity" />
+            <PropertyRef Name="Price" />
+          </Key>
+          <Property Name="IndexNumber" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="ItemImage" Type="image" Nullable="false" />
+          <Property Name="ItemName" Type="varchar" Nullable="false" MaxLength="50" />
+          <Property Name="Description" Type="varchar" Nullable="false" MaxLength="50" />
+          <Property Name="Quantity" Type="int" Nullable="false" />
+          <Property Name="Price" Type="float" Nullable="false" />
+        </EntityType>
+        <!--Errors Found During Generation:
+      warning 6002: The table/view 'C:\USERS\ZEAVE\DESKTOP\MC2 DESIGNS (6)\MC2 DESIGNS\MC2 SALES AND INVENTORY SYSTEM\MC2 SALES AND INVENTORY SYSTEM\MC2.MDF.dbo.HistoryLogin' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+        <EntityType Name="HistoryLogin">
+          <Key>
+            <PropertyRef Name="No" />
+          </Key>
+          <Property Name="No" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="Username" Type="varchar" MaxLength="50" />
+          <Property Name="Date" Type="date" />
+          <Property Name="Time_LoggedIn" Type="time" />
+          <Property Name="Time_LoggedOut" Type="time" />
+          <Property Name="SessionId" Type="varchar" MaxLength="36" />
+        </EntityType>
+        <!--Errors Found During Generation:
+      warning 6002: The table/view 'C:\USERS\ZEAVE\DESKTOP\MC2 DESIGNS (6)\MC2 DESIGNS\MC2 SALES AND INVENTORY SYSTEM\MC2 SALES AND INVENTORY SYSTEM\MC2.MDF.dbo.LoginTable' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+        <EntityType Name="LoginTable">
+          <Key>
+            <PropertyRef Name="No" />
+          </Key>
+          <Property Name="No" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="Username" Type="varchar" MaxLength="50" />
+          <Property Name="Password" Type="varchar" MaxLength="50" />
+          <Property Name="Question" Type="varchar" MaxLength="50" />
+          <Property Name="Answer" Type="varchar" MaxLength="50" />
+          <Property Name="Date_Registered" Type="date" />
+          <Property Name="Time_Registered" Type="time" />
+        </EntityType>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="MC2Model" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+        <EntityContainer Name="MC2Entities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="AdminTables" EntityType="MC2Model.AdminTable" />
+          <EntitySet Name="HistoryLogins" EntityType="MC2Model.HistoryLogin" />
+          <EntitySet Name="LoginTables" EntityType="MC2Model.LoginTable" />
+        </EntityContainer>
+        <EntityType Name="AdminTable">
+          <Key>
+            <PropertyRef Name="IndexNumber" />
+            <PropertyRef Name="ItemImage" />
+            <PropertyRef Name="ItemName" />
+            <PropertyRef Name="Description" />
+            <PropertyRef Name="Quantity" />
+            <PropertyRef Name="Price" />
+          </Key>
+          <Property Name="IndexNumber" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="ItemImage" Type="Binary" Nullable="false" MaxLength="Max" FixedLength="false" />
+          <Property Name="ItemName" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+          <Property Name="Description" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+          <Property Name="Quantity" Type="Int32" Nullable="false" />
+          <Property Name="Price" Type="Double" Nullable="false" />
+        </EntityType>
+        <EntityType Name="HistoryLogin">
+          <Key>
+            <PropertyRef Name="No" />
+          </Key>
+          <Property Name="No" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Username" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+          <Property Name="Date" Type="DateTime" />
+          <Property Name="Time_LoggedIn" Type="Time" />
+          <Property Name="Time_LoggedOut" Type="Time" />
+          <Property Name="SessionId" Type="String" MaxLength="36" Unicode="false" FixedLength="false" />
+        </EntityType>
+        <EntityType Name="LoginTable">
+          <Key>
+            <PropertyRef Name="No" />
+          </Key>
+          <Property Name="No" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Username" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+          <Property Name="Password" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+          <Property Name="Question" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+          <Property Name="Answer" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+          <Property Name="Date_Registered" Type="DateTime" />
+          <Property Name="Time_Registered" Type="Time" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="MC2ModelStoreContainer" CdmEntityContainer="MC2Entities">
+          <EntitySetMapping Name="AdminTables">
+            <EntityTypeMapping TypeName="MC2Model.AdminTable">
+              <MappingFragment StoreEntitySet="AdminTable">
+                <ScalarProperty Name="IndexNumber" ColumnName="IndexNumber" />
+                <ScalarProperty Name="ItemImage" ColumnName="ItemImage" />
+                <ScalarProperty Name="ItemName" ColumnName="ItemName" />
+                <ScalarProperty Name="Description" ColumnName="Description" />
+                <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+                <ScalarProperty Name="Price" ColumnName="Price" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="HistoryLogins">
+            <EntityTypeMapping TypeName="MC2Model.HistoryLogin">
+              <MappingFragment StoreEntitySet="HistoryLogin">
+                <ScalarProperty Name="No" ColumnName="No" />
+                <ScalarProperty Name="Username" ColumnName="Username" />
+                <ScalarProperty Name="Date" ColumnName="Date" />
+                <ScalarProperty Name="Time_LoggedIn" ColumnName="Time_LoggedIn" />
+                <ScalarProperty Name="Time_LoggedOut" ColumnName="Time_LoggedOut" />
+                <ScalarProperty Name="SessionId" ColumnName="SessionId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="LoginTables">
+            <EntityTypeMapping TypeName="MC2Model.LoginTable">
+              <MappingFragment StoreEntitySet="LoginTable">
+                <ScalarProperty Name="No" ColumnName="No" />
+                <ScalarProperty Name="Username" ColumnName="Username" />
+                <ScalarProperty Name="Password" ColumnName="Password" />
+                <ScalarProperty Name="Question" ColumnName="Question" />
+                <ScalarProperty Name="Answer" ColumnName="Answer" />
+                <ScalarProperty Name="Date_Registered" ColumnName="Date_Registered" />
+                <ScalarProperty Name="Time_Registered" ColumnName="Time_Registered" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams>
+      <Diagram Name="Model1">
+        <EntityTypeShape EntityType="MC2Model.AdminTable" Width="1.5" PointX="0.75" PointY="0.75" Height="2.172587890625" IsExpanded="true" />
+        <EntityTypeShape EntityType="MC2Model.HistoryLogin" Width="1.5" PointX="2.75" PointY="0.75" Height="2.1725878906249996" IsExpanded="true" />
+        <EntityTypeShape EntityType="MC2Model.LoginTable" Width="1.5" PointX="0.75" PointY="3.75" Height="2.3648893229166656" IsExpanded="true" />
+      </Diagram>
+    </Diagrams>
+  </Designer>
+</edmx:Edmx>
